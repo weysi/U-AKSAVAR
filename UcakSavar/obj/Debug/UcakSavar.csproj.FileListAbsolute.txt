@@ -1,0 +1,10 @@
+c:\users\section1\source\repos\UcakSavar\UcakSavar\obj\Debug\UcakSavar.csprojResolveAssemblyReference.cache
+c:\users\section1\source\repos\UcakSavar\UcakSavar\obj\Debug\UcakSavar.Properties.Resources.resources
+c:\users\section1\source\repos\UcakSavar\UcakSavar\obj\Debug\UcakSavar.csproj.GenerateResource.cache
+c:\users\section1\source\repos\UcakSavar\UcakSavar\obj\Debug\UcakSavar.csproj.CoreCompileInputs.cache
+c:\users\section1\source\repos\UcakSavar\UcakSavar\bin\Debug\UcakSavar.exe.config
+c:\users\section1\source\repos\UcakSavar\UcakSavar\bin\Debug\UcakSavar.exe
+c:\users\section1\source\repos\UcakSavar\UcakSavar\bin\Debug\UcakSavar.pdb
+c:\users\section1\source\repos\UcakSavar\UcakSavar\obj\Debug\UcakSavar.exe
+c:\users\section1\source\repos\UcakSavar\UcakSavar\obj\Debug\UcakSavar.pdb
+C:\Users\Section1\source\repos\UcakSavar\UcakSavar\obj\Debug\UcakSavar.Oyun.resources
